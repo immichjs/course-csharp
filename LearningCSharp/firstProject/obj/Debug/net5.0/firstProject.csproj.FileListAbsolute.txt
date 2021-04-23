@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\firstProject.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\firstProject.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\firstProject.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\firstProject.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\firstProject.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\ref\firstProject.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\bin\Debug\net5.0\firstProject.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.csprojAssemblyReference.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\ref\firstProject.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\firstProject\obj\Debug\net5.0\firstProject.genruntimeconfig.cache
