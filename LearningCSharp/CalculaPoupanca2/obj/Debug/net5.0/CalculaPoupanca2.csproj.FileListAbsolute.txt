@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\CalculaPoupanca2.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\CalculaPoupanca2.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\CalculaPoupanca2.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\CalculaPoupanca2.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\CalculaPoupanca2.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\ref\CalculaPoupanca2.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\bin\Debug\net5.0\CalculaPoupanca2.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.csprojAssemblyReference.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\ref\CalculaPoupanca2.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaPoupanca2\obj\Debug\net5.0\CalculaPoupanca2.genruntimeconfig.cache

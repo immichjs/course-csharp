@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\createDecimalVariable.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\createDecimalVariable.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\createDecimalVariable.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\createDecimalVariable.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\createDecimalVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\ref\createDecimalVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\bin\Debug\net5.0\createDecimalVariable.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\ref\createDecimalVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.genruntimeconfig.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createDecimalVariable\obj\Debug\net5.0\createDecimalVariable.csprojAssemblyReference.cache

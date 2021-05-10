@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ref\ForEncadeado.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.csprojAssemblyReference.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ref\ForEncadeado.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.genruntimeconfig.cache

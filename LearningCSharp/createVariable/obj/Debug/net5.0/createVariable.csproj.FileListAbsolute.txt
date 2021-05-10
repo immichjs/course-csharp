@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\createVariable.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\createVariable.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\createVariable.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\createVariable.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\createVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\ref\createVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\bin\Debug\net5.0\createVariable.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\ref\createVariable.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.genruntimeconfig.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\createVariable\obj\Debug\net5.0\createVariable.csprojAssemblyReference.cache

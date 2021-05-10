@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\Condicionais.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\Condicionais.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\Condicionais.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\Condicionais.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\Condicionais.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\ref\Condicionais.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\bin\Debug\net5.0\Condicionais.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\ref\Condicionais.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.genruntimeconfig.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\Condicionais\obj\Debug\net5.0\Condicionais.csprojAssemblyReference.cache

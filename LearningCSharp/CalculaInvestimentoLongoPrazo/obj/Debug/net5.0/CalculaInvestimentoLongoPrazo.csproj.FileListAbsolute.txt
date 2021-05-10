@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\CalculaInvestimentoLongoPrazo.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\CalculaInvestimentoLongoPrazo.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\ref\CalculaInvestimentoLongoPrazo.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\CalculaInvestimentoLongoPrazo.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.csprojAssemblyReference.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\ref\CalculaInvestimentoLongoPrazo.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\CalculaInvestimentoLongoPrazo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\AtributoDeVariaveis.exe
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\AtributoDeVariaveis.deps.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\AtributoDeVariaveis.runtimeconfig.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\AtributoDeVariaveis.runtimeconfig.dev.json
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\AtributoDeVariaveis.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\ref\AtributoDeVariaveis.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\bin\Debug\net5.0\AtributoDeVariaveis.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.AssemblyInfo.cs
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\ref\AtributoDeVariaveis.dll
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.pdb
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.genruntimeconfig.cache
+C:\Users\immic\Desktop\Code\course-csharp\LearningCSharp\AtributoDeVariaveis\obj\Debug\net5.0\AtributoDeVariaveis.csprojAssemblyReference.cache
